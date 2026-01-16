@@ -19,9 +19,9 @@ customCss: ['./src/styles/custom.css'],
          label: 'About',
     items: [
       { label: 'About', slug: 'index' },       // 关键：指向 src/content/docs/index.mdx
-      { label: 'Start here', slug: 'starthere' },
+      { label: 'Reading Guide', slug: 'starthere' },
       { label: 'Principles', slug: 'principles' },
-      { label: 'Colophon', slug: 'colophon' },
+      { label: 'Credits & Build', slug: 'colophon' },
     ],
         },
 
